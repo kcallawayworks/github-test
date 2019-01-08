@@ -1,3 +1,5 @@
 This is Kelly's git test
 
-I've now added my cat's name - he is Butters.
+I've now added my cat's name - he is Butters!
+
+Another update was made to my file, I think I have this down now.
